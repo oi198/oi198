@@ -11,10 +11,6 @@
  ・バスケ
  
  #### 得意な言語
- ・python (scikit-learn, tensorflow)
- ・javascript
+ ・python (scikit-learn, tensorflow)<br>
+ ・javascript<br>
  ・node.js (Express)
- 
- 
-  
- 
