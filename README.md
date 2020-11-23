@@ -11,8 +11,8 @@
  ・バスケ
  
  #### 得意な言語
- ・python (scikit-learn, tensorflow)  2年くらい勉強<br>
- ・javascript  半年くらい勉強<br>
- ・node.js (Express)  半年くらい勉強<br>
- ・java  大学で少し勉強<br>
- ・c  大学で少し勉強<br>
+ ・python (scikit-learn, tensorflow) &nbsp 2年くらい勉強<br>
+ ・javascript &nbsp 半年くらい勉強<br>
+ ・node.js (Express) &nbsp 半年くらい勉強<br>
+ ・java &nbsp 大学で少し勉強<br>
+ ・c &nbsp 大学で少し勉強<br>
