@@ -1,7 +1,7 @@
 ## 初めまして　岡本育也です！
 
-![Nakagaki-Yuto's github stats](https://github-readme-stats.vercel.app/api?username=Nakagaki-Yuto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakagaki-Yuto&theme=dark&langs_count=3)
+![Okamoto-Ikuya's github stats](https://github-readme-stats.vercel.app/api?username=oi198&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oi198&theme=dark&langs_count=3)
 
  
 ### 自己紹介
