@@ -18,5 +18,6 @@
  + python (scikit-learn, tensorflow) &nbsp; 2年くらい勉強<br>
  + javascript &nbsp; 半年くらい勉強<br>
  + node.js (Express) &nbsp; 半年くらい勉強<br>
+ + ruby (ruby&)
  + java &nbsp; 大学で少し勉強<br>
  + c &nbsp; 大学で少し勉強<br>
